@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "c:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\red56\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\red56\\Documents\\prog irland\\Back end\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
