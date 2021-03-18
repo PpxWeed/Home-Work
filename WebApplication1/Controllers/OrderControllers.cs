@@ -22,7 +22,7 @@ namespace Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable< Order>>> GetOrderTable()
+        public async Task<ActionResult<IEnumerable<Order>>> GetOrderTable()
         {
             return await _context.Order.ToListAsync();
         }

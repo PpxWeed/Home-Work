@@ -12,5 +12,7 @@ namespace HomeWork.Data
         public DbSet<Products_description> Products_description {get; set;}
         public DbSet<Customer_description> Customer_description {get; set;}
         public DbSet<Order> Order {get; set;}
+
+        public DbSet<Reservation> Reservation {get; set;}
     }
 }

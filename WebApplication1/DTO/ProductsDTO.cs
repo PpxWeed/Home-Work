@@ -11,5 +11,6 @@ namespace HomeWork.DTO
         public string plats { get; set; }
         public string drinks { get; set; }
         public string deserts { get; set; }
+        public DateTime Reservation { get; set; }
     }
 }
