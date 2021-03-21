@@ -1,4 +1,4 @@
-﻿using HomeWork.Models;
+﻿using Webapplication1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HomeWork.Controllers
+namespace Webapplication1.Controllers
 {
     public class HomeController : Controller
     {

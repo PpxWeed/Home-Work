@@ -4,8 +4,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Models;
-using HomeWork.Data;
-using HomeWork.DTO;
+using Webapplication1.Data;
+using Webapplication1.DTO;
 using DTO;
 
 namespace Controllers

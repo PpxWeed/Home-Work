@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace HomeWork.Models
+namespace Webapplication1.Models
 {
     public class Customer_description
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace HomeWork.DTO
+namespace Webapplication1.DTO
 {
     public class CustomerDTO
     {

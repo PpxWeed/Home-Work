@@ -1,12 +1,12 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using HomeWork.Data;
-using HomeWork.DTO;
+using Webapplication1.Data;
+using Webapplication1.DTO;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 
-namespace HomeWork.Controllers
+namespace Webapplication1.Controllers
 {
     [ApiController]
     [Route("[controller]")]

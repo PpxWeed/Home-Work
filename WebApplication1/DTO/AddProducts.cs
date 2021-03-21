@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace HomeWork.DTO
+namespace Webapplication1.DTO
 {
     public class AddProducts
     {

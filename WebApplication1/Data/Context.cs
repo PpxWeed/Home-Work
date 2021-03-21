@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Models;
-using HomeWork.Models;
+using Webapplication1.Models;
 
-namespace HomeWork.Data
+namespace Webapplication1.Data
 {
     public class Context : DbContext
     {

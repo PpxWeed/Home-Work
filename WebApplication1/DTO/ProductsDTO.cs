@@ -1,7 +1,7 @@
 using System;
 
 
-namespace HomeWork.DTO
+namespace Webapplication1.DTO
 {
     public class ProductsDTO
     {
